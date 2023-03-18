@@ -1,0 +1,20 @@
+# Assginment #2
+
+Choose two problems for regression and two for classification:
+
+1- Explain the problem carefully
+
+2- Load the related data sets
+
+3- You can copy and paste a code (in any language that you want) but not the text (even one sentence)
+
+4- Do data preparation and visualization
+
+5- Do modeling and find the model(s) outputs 
+
+6- Find proper metrics to evaluate the outputs 
+
+7- Have a discussion and conclusion for each problem
+
+
+https://data-flair.training/blogs/machine-learning-datasets/
